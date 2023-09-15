@@ -1,0 +1,58 @@
+
+
+<ion-content [fullscreen]="true">
+  <div class="title">
+    <h1>Intercambio</h1>
+  </div>  
+  
+  <div class="contenido">
+    
+    <div class="portafolio">
+      <div>
+        <h2>Dirección:</h2> 
+        <ion-input class="direc"placeholder="Ingrese la wallet"></ion-input>
+
+      </div>
+    </div>
+
+    <div class="portafolio2">
+      <div class="b" data-v-a583b46c="">
+        <img _ngcontent-ng-c8217372="" src="./../../../assets/img/Bitcoin-Logo.png">
+      </div>
+      <div class="b" data-v-a583b46c="">
+        <img _ngcontent-ng-c8217372="" src="./../../../assets/img/Bitcoin-Logo.png">
+
+      </div>
+      <div class="b" data-v-a583b46c="">
+        <img _ngcontent-ng-c8217372="" src="./../../../assets/img/Bitcoin-Logo.png">
+
+      </div>
+    </div>
+
+    <div class="envío">
+
+      <div class="Inputbox" data-v-a583b46c="">
+        <h2>Envías</h2> 
+        <ion-input class="letra_in" placeholder="Ingrese el monto a enviar"></ion-input>
+      </div>
+
+    </div>
+
+    <div class="recibo">
+      <div class="Inputbox" data-v-a583b46c="">
+        <h2>Recibes</h2> 
+        <ion-input class="letra_in2" placeholder="Usted recibe:"></ion-input>
+
+      </div>
+    </div>
+
+    
+
+    <div class="recibo2">
+     <ion-button id="open-toast" expand="block">Enviar</ion-button>
+     <p id="message"></p>
+    <ion-toast trigger="open-toast" message="Problemas de conexión con Blockchain, intente nuevamente dentro de 7 segundos" [duration]="7000"></ion-toast>
+    </div>
+  </div>
+
+</ion-content>

@@ -1,0 +1,71 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+h1{
+    font-weight: 600;
+}
+h3{
+    font-weight: 600;
+}
+.title{
+    color: white;
+    background-color: #22668D;
+    border-radius:10px;
+    display: flex;
+    justify-content: left;
+    padding: 1.5rem;
+    padding-top: 2rem;
+    margin-bottom:0.5rem;
+    margin-top:-0.5rem;
+    height: 120px;   
+    
+  align-items: baseline;
+}
+.portafolio{
+    color: white;
+    background-color: #8ECDDD;
+    border-radius:15px;
+    height: 150px;
+    width: 342px;
+    margin: 1rem;
+    padding:5px;
+    padding-left:15px
+}
+.vistaBTC{
+    margin: 21px;
+    width: 342px;
+    padding:5px;
+    display: flex;
+}
+
+.vistaBTC > div {
+    margin-right:  25px;
+}
+.numG{
+    font-size: larger;
+    font-weight: 600;
+}
+.numC{
+    display: flex;
+    font-weight: 600;
+    margin-top:  10px;
+}
+.grafico{
+    margin: 10px;
+}
+
+.numC> p {
+    margin-right:  30px;
+}
+
+.btcbtc{
+    height: 100px;
+    width: 100px;
+}
+
+ion-avatar {
+    --border-radius: 10px;
+}
+
+    

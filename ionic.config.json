@@ -1,0 +1,7 @@
+{
+  "name": "AppInversion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

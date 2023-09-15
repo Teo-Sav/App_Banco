@@ -1,0 +1,126 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-weight: 600;
+}
+h3{
+    font-weight: 600;
+}
+h2{
+    margin-bottom: -5px;
+}
+.title{
+    color: white;
+    background-color: #22668D;;
+    border-radius:10px;
+    display: flex;
+    justify-content: left;
+    padding: 1.5rem;
+    padding-top: 2rem;
+    margin-bottom:0.5rem;
+    margin-top:-0.5rem;
+    height: 120px;   
+    
+  align-items: baseline;
+}
+.envío{
+    color: white;
+    background-color: #8ECDDD;
+    border-radius:15px;
+    height: 75px;
+    width: 342px;
+    margin: 1rem;
+    margin-top: 1.5rem;
+    padding:5px;
+    padding-left:15px;
+    align-items: baseline;
+}
+.Inputbox{
+    display: flex;
+}
+
+.recibo{
+    color: white;
+    background-color: #8ECDDD;
+    border-radius:15px;
+    height: 75px;
+    width: 342px;
+    margin: 1rem;
+    padding:5px;
+    padding-left:15px
+}
+.portafolio{
+    color: white;
+    background-color: #8ECDDD;
+    border-radius:15px;
+    height: 100px;
+    width: 342px;
+    margin: 1rem;
+    padding:5px;
+    padding-left:15px
+}
+
+.portafolio2{
+    display: flex;
+    color: white;
+    background-color: white;
+    border-radius:15px;
+    height: 100px;
+    width: 342px;
+    margin: 1rem;
+    padding:5px;
+    padding-left:15px
+}
+.b{
+    background-color:#AED2FF;
+    border-radius:15px;
+    margin: 0.5rem;
+    padding-top: 15px;
+    width: 300px;
+    height: 85px;
+}
+.recibo2{
+    color: white;
+    background-color: white;
+    border-radius:15px;
+    
+    width: 342px;
+    margin: 1rem;
+    padding:0px;
+    padding-left:0px
+}
+.letra_in{
+    margin-top: 10px;
+    margin-right: 50px;
+    margin-left: 75px;
+    border-radius:15px;
+    width: 150px;
+}
+
+.letra_in2{
+    margin-top: 11px;
+    margin-right: 50px;
+    
+    margin-left: 62px;
+
+    border-radius:15px;
+    width: 150px;
+}
+
+.direc{
+    
+    border-radius:5px;
+    width: 312px;
+    
+}
+.boton1{
+    color: white;
+    background-color: white;
+    border-radius:15px;
+    height: 75px;
+    width: 342px;
+    margin: 1rem;
+    padding:5px;
+    padding-left:15px
+}
